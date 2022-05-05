@@ -7,7 +7,10 @@ Software Developer
 When I discovered programming, I was immediately drawn to the artistic aspect: the ability to make something out of nothing. Programming allows me to think outside the box, be creative and impact the world in a positive way. 
 \
 \
-In the past I have worked on projects related to the development and implementation of various e-commerce websites for companies ranging from start-ups to established multimillion-dollar companies. I have experience developing and implementing solutions to help these companies build and market their own web-based products and strengthen their brand identity. Always looking for new and better approaches and technologies that help me make a bigger impact and innovate. As an entrepreneur, I see new opportunities every day. New technologies are added regularly that I need to master in order to succeed. The day you stop learning is the day you stop living
+In the past I have worked on projects related to the development and implementation of various e-commerce websites for companies ranging from start-ups to established multimillion-dollar companies. I have experience developing and implementing solutions to help these companies build and market their own web-based products and strengthen their brand identity. Always looking for new and better approaches and technologies that help me make a bigger impact and innovate. As an entrepreneur, I see new opportunities every day. New technologies are added regularly that I need to master in order to succeed. 
+\
+\
+The day you stop learning is the day you stop living
 
 * 🌍  I'm based in Amsterdam
 * 🧠  I'm learning React Native and C#
