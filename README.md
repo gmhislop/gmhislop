@@ -13,7 +13,7 @@ In the past I have worked on projects related to the development and implementat
 The day you stop learning is the day you stop living
 
 * 🌍  I'm based in Amsterdam
-* 🧠  I'm learning React Native and Three.JS
+* 🧠  I'm learning React Native, WebXR, VR and AR.
 * 🤝  I'm open to collaborating on Blockchain, Web 3.0 and Mobile app development
 
 ### Skills
