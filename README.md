@@ -1,4 +1,4 @@
-Hi my name is Giovanni
+Hi, my name is Giovanni
 ================================
 
 As a <strong>Frontend Developer</strong>, I go beyond coding; I am a visionary explorer dedicated to crafting meaningful connections between technology and human experiences.
