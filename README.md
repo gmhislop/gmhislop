@@ -1,12 +1,14 @@
-WELCOME TO MY UNIVERSE 🌐
+HELLO UNIVERSE 🌐
 ================================
 
-Software Developer
+Creative Frontend Developer and Interactive Designer | Amsterdam 🌍
 ------------------
-When I discovered programming, I was immediately drawn to the artistic aspect: the ability to make something out of nothing. Programming allows me to think outside the box, be creative and impact the world on a larger scale.
+I'm not merely a coder; I'm a visionary creative explorer devoted to crafting meaningful connections between technology and human experiences.
 <br />
 <br />
-In the past I have worked on projects related to the development and implementation of various e-commerce websites for companies ranging from startups and established companies alike. I have experience developing and implementing solutions to help these companies build and market their own web-based products and strengthen their brand identity. 
+When I discovered programming, I was immediately drawn to the artistic aspect: the ability to make something out of nothing. Programming allows me to think outside the box, be creative and impact the world on a larger scale. In the past, I've been involved in a range of projects, including web and mobile app development. I've had the pleasure of working with diverse clients, from startups to established companies. Notably, I've built several applications that have gained a substantial user following.
+
+My expertise thrives in conceiving and executing scalable, interactive, and creatively-driven solutions. These solutions enable companies to not only create and promote their web-based products but also to elevate their brand identity while enhancing user experiences in the ever-evolving digital landscape.
 <br />
 <br />
 The day you stop learning is the day you stop living
