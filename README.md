@@ -1,9 +1,7 @@
-HELLO UNIVERSE 🌐
+Hi my name is Giovanni
 ================================
 
-Creative Frontend Developer and Interactive Designer | Amsterdam 🌍
-------------------
-I'm not merely a coder; I'm a visionary creative explorer devoted to crafting meaningful connections between technology and human experiences.
+As a <strong>Frontend Developer</strong>, I go beyond coding; I am a visionary explorer dedicated to crafting meaningful connections between technology and human experiences.
 <br />
 <br />
 When I discovered programming, I was immediately drawn to the artistic aspect: the ability to make something out of nothing. Programming allows me to think outside the box, be creative and impact the world on a larger scale. In the past, I've been involved in a range of projects, including web and mobile app development. I've had the pleasure of working with diverse clients, from startups to established companies. Notably, I've built several applications that have gained a substantial user following.
