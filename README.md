@@ -4,19 +4,16 @@ WELCOME TO MY UNIVERSE 🌐
 Software Developer
 ------------------
 When I discovered programming, I was immediately drawn to the artistic aspect: the ability to make something out of nothing. Programming allows me to think outside the box, be creative and impact the world on a larger scale.
-\
-\
-In the past I have worked on projects related to the development and implementation of various e-commerce websites for companies ranging from start-ups to established multimillion-dollar companies. I have experience developing and implementing solutions to help these companies build and market their own web-based products and strengthen their brand identity. 
-\
-\
-Always looking for new and better approaches and technologies that help me make a bigger impact and innovate. As an entrepreneurial creator, I see new opportunities every day. New technologies are added regularly that I need to master in order to succeed.
-\
-\
+<br />
+<br />
+In the past I have worked on projects related to the development and implementation of various e-commerce websites for companies ranging from startups and established companies alike. I have experience developing and implementing solutions to help these companies build and market their own web-based products and strengthen their brand identity. 
+<br />
+<br />
 The day you stop learning is the day you stop living
 
-* 🌍  I'm based in Amsterdam
-* 🧠  I'm learning React Native, WebXR, VR and AR.
-* 🤝  I'm open to collaborating on Blockchain, Web 3.0 and Mobile app development
+* 🌍 Location: Amsterdam
+* 📚 Current Learning: React Native, WebXR, VR, and AR.
+* 🤝 Open to Collaborate: Web 3.0 and Mobile App Development
 
 ### Skills
 
