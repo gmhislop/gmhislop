@@ -12,7 +12,7 @@ My expertise thrives in conceiving and executing scalable, interactive, and crea
 The day you stop learning is the day you stop living
 
 * 🌍 Location: Amsterdam
-* 📚 Current Learning: React Native, WebXR, VR, and AR.
+* 📚 Current Learning: WebXR, VR, and AR.
 * 🤝 Open to Collaborate: Web 3.0 and Mobile App Development
 
 ### Skills
